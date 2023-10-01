@@ -1,4 +1,4 @@
-# Penis analysis
+# Penis analysis - SFW
 A beginning data scientist approaches data about penises.
 
 This project idea was initially a joke made on Discord, but after realising it would be a good practice with the potential for interesting results, I decided to see if anything came of it.
